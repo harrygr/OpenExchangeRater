@@ -1,0 +1,7 @@
+suites:
+  openexchangerater_suite:
+    namespace: OpenExchangeRater
+    psr4_prefix: OpenExchangeRater
+    src_path: src
+    spec_prefix: spec
+bootstrap: bootstrap.php

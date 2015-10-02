@@ -1,0 +1,21 @@
+{
+    "name": "harrygr/open-exchange-rater",
+    "description": "A PHP client for the Open Exchange Rates API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "harrygr",
+            "email": "harrygrumbar@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpspec/phpspec": "^2.2@dev",
+        "vlucas/phpdotenv": "^2.1@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "OpenExchangeRater\\": "src/"
+        }
+    }
+}
