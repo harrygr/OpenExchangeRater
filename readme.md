@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/harrygr/OpenExchangeRater.svg?branch=master)](https://travis-ci.org/harrygr/OpenExchangeRater)
+
 # Open Exchange Rater Client
 
 This is a simple client to consume the [openexchangerate.org][1] REST API.
