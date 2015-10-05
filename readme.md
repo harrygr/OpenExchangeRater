@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/harrygr/OpenExchangeRater.svg?branch=master)](https://travis-ci.org/harrygr/OpenExchangeRater)
+[![Build Status](https://travis-ci.org/harrygr/OpenExchangeRater.svg?branch=master)](https://travis-ci.org/harrygr/OpenExchangeRater) [![Latest Stable Version](https://poser.pugx.org/harrygr/open-exchange-rater/v/stable)](https://packagist.org/packages/harrygr/open-exchange-rater) [![License](https://poser.pugx.org/harrygr/open-exchange-rater/license)](https://packagist.org/packages/harrygr/open-exchange-rater)
 
 # Open Exchange Rater Client
 
